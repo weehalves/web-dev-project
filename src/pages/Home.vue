@@ -37,4 +37,10 @@
     font-size: 18px;
     margin-top: 20px;
   }
+
+  @media(min-width: 700px){
+    #subscribe{
+    width: 370px;
+  }
+}
 </style>

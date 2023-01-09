@@ -101,7 +101,7 @@ export default{
         flex-direction: column;
         justify-content: flex-start;
         align-items: center;
-        
+
     }
 
     #menu-items.active{
